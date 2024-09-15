@@ -21,14 +21,14 @@ repository               : "ahmetyazlyyev5.github.io/ahmetyazlyyev.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "selfie.jpg"
+  name             : "Ahmet Yazlyyev"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shoreline, WA"
+  employer         : "Cascadia College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ahmetyazlyyev5@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
